@@ -18,3 +18,4 @@ preserve the original clustering structure better than balance fairness,
 though it does not always result in lower individual counterfactual costs.
 Moreover, we uncover implicit biases, with certain features (e.g., marital
 status) emerging as influential proxies for sensitive attributes.
+
